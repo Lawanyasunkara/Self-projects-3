@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Lavanya\source\repos\section3project\DataLibrary\obj\Debug\DataLibrary.pdb
